@@ -1,4 +1,9 @@
-/* sprite.h */
+/*!
+ * @file sprite.h
+ *
+ * Contains all of the information for replacing every character sprite
+ */
+
 #ifndef SPRITE_H
 #define SPRITE_H
 
@@ -7,4 +12,3 @@
 void RegisterSprites(void);
 
 #endif /* SPRITE_H */
-

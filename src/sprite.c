@@ -1,7 +1,12 @@
-/* sprite.c */
+/*!
+ * @file sprite.c
+ *
+ * Contains all of the information for replacing every character sprite
+ * 
+ * Format for AERSpriteReplace is <spriteIdx> <file_name> <number of frames> <x_offset> <y_offset>
+ */
 
 #include "aer/sprite.h"
-#include "aer/log.h"
 
 #include "sprite.h"
 #include "stdio.h"

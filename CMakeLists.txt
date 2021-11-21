@@ -1,8 +1,8 @@
 cmake_minimum_required(VERSION 3.12)
 
 # Define project.
-project(         "hld_skin_mod" # Mod name (required)
-    VERSION      "0.2.0" # Mod version (required)
+project(         "greendrifter" # Mod name (required)
+    VERSION      "1.0.0" # Mod version (required)
     DESCRIPTION  "Adds customizeable Drifter skins" # Mod description (optional)
     HOMEPAGE_URL "" # Mod homepage (optional)
     LANGUAGES C

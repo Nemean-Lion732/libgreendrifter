@@ -1,8 +1,8 @@
 {
     "mdk": {
-        "modName": "hld_skin_mod",
+        "modName": "greendrifter",
         "extraModNames": [
-            "bugcon"
+            // "bugcon"
         ]
     },
     "editor.formatOnType": false,
